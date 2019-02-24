@@ -5,16 +5,21 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://Julyyt-y.github.io/"/>
+  <link href="https://Julyyt-y.cn/"/>
   <updated>2019-01-23T13:08:51.090Z</updated>
-  <id>https://Julyyt-y.github.io/</id>
+  <id>https://Julyyt-y.cn/</id>
+  
+  <author>
+    <name>Julyyt-y</name>
+    
+  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Julyyt&#39;s Blog</title>
-    <link href="https://Julyyt-y.github.io/2019/01/23/hello-world/"/>
-    <id>https://Julyyt-y.github.io/2019/01/23/hello-world/</id>
+    <link href="https://Julyyt-y.cn/2019/01/23/hello-world/"/>
+    <id>https://Julyyt-y.cn/2019/01/23/hello-world/</id>
     <published>2019-01-23T07:45:03.630Z</published>
     <updated>2019-01-23T13:08:51.090Z</updated>
     
